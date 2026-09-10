@@ -1,2 +1,5 @@
 # opl-cheat-injector
-Linux Based Tool to Inject Cheats into OPL to be used for PS2 homebrew
+A Bash utility that detects PS2 game serials and safely installs matching native OPL cheat files.
+# Cheat data source:
+# https://github.com/PS2-Widescreen/OPL-Widescreen-Cheats
+# All cheat-file credit belongs to that project and it's contributors
